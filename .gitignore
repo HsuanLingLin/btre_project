@@ -12,3 +12,5 @@ db.sqlite3-journal
 /media
 /static
 venv
+.DS_Store
+*/migrations
